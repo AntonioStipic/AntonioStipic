@@ -1,4 +1,7 @@
 ### Welcome!
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntonioStipic&show_icons=true&count_private=true" />
+
 My name is Antonio Stipić. I am software engineer from Croatia with focus on Angular and Firebase.
 
 Love creating Content Management Systems (<a target="_blank" href="https://github.com/Jaspero/JMS">JMS</a>) and APIs.
