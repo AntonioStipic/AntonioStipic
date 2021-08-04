@@ -1,6 +1,6 @@
 ### Welcome!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntonioStipic&show_icons=true&count_private=true&bg_color=00000000" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntonioStipic&show_icons=true&count_private=true&bg_color=00000000&include_all_commits=true" />
 
 <br>
 My name is <i>Antonio Stipić</i>. I am software engineer from Croatia with focus on Angular and Firebase.
