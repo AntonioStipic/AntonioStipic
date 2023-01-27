@@ -13,6 +13,6 @@ Currently focusing on Smart Contract Development 🎯
 <br>
 <br>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=AntonioStipic&rank=-B">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=AntonioStipic&rank=-B,-C&column=3&margin-w=15&margin-h=15">
 
 ![](https://hit.yhype.me/github/profile?user_id=8955582)
