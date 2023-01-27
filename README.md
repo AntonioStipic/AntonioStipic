@@ -9,4 +9,10 @@ Love creating Content Management Systems (<a target="_blank" href="https://githu
 
 Currently focusing on Smart Contract Development 🎯
 
+<br>
+<br>
+<br>
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=AntonioStipic&rank=-B">
+
 ![](https://hit.yhype.me/github/profile?user_id=8955582)
