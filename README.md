@@ -5,9 +5,13 @@
 <br>
 My name is <i>Antonio Stipić</i>. I am software engineer from Croatia with focus on Angular and Firebase.
 
-Love creating Content Management Systems (<a target="_blank" href="https://github.com/Jaspero/JMS">JMS</a>) and APIs.
+I love creating <a target="_blank" href="https://analyzee.io">Analytics Tools</a>, Content Management Systems (<a target="_blank" href="https://github.com/Jaspero/JMS">JMS</a>) and APIs.
 
-Currently focusing on Smart Contract Development 🎯
+Currently focusing on:
+<br>
+<a href="https://analyzee.io" target="_blank">
+  <img alt="analyzee" src="https://user-images.githubusercontent.com/8955582/218164963-57012592-42d3-4591-b893-b76686da583e.png" width="200">
+</a>
 
 <br>
 <br>
