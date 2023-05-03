@@ -1,6 +1,6 @@
 ### Welcome!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntonioStipic&show_icons=true&count_private=true&bg_color=00000000&include_all_commits=true" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=AntonioStipic&rank=-B,-C&column=3&margin-w=15&margin-h=15">
 
 <br>
 My name is <i>Antonio Stipić</i>. I am software engineer from Croatia with focus on Angular and Firebase.
@@ -17,6 +17,12 @@ Currently focusing on:
 <br>
 <br>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=AntonioStipic&rank=-B,-C&column=3&margin-w=15&margin-h=15">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioStipic&show_icons=true&count_private=true&bg_color=00000000&include_all_commits=true" align="left" style="width: 47%"/>
+</div>  
+ 
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioStipic&mode=daily&card_width=467" align="right" style="width: 47%"/>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=8955582)
